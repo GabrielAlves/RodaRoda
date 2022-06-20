@@ -12,8 +12,28 @@ Projeto antigo feito para a disciplina "Laboratório de programação". É um jo
 6. Se você zerar o número de tentativas, o visor informa que você perdeu e revela a palavra...e o buzzer toca até você fechar o jogo ou apertar o botão da proboard pra reiniciar;
 7. Se você acertar, o visor te parabeniza;
 
-## GIF
+## Imagens
 
-Acabei me atrapalhando no recorte das imagens, então o GIF saiu meio irregular.
+### Antes de apertar o botão da protoboard
 
-![Alt Text](gif/gif1.gif)
+![Alt Text](img/screenshot1.png)
+
+### Jogo iniciado
+
+![Alt Text](img/screenshot2.png)
+
+### A letra "a" foi palpitada
+
+![Alt Text](img/screenshot3.png)
+
+### Mensagem de transição entre os palpites
+
+![Alt Text](img/screenshot4.png)
+
+### Mensagem de vitória
+
+![Alt Text](img/screenshot5.png)
+
+### Mensagem de derrota
+
+![Alt Text](img/screenshot6.png)
