@@ -1,6 +1,6 @@
 # RodaRoda
 
-Projeto antigo feito para a disciplina "Laboratório de programação". É um jogo de adivinhação de palavras implementado em um arduíno. Foi feito em conjunto com Enzo Eduardo Cassiano Ibiapina. Tinkercad: https://www.tinkercad.com/things/83EYJHh6ece-rodaarodaprototipo 
+Projeto antigo feito para a disciplina "Laboratório de programação". É um jogo de adivinhação de palavras implementado em um arduíno. Foi feito em conjunto com [Enzo Eduardo Cassiano Ibiapina](https://github.com/EnzEdu) e implementado na plataforma [Tinkercad](https://www.tinkercad.com/things/83EYJHh6ece-rodaarodaprototipo) 
 
 ## Instruções para jogar
 
